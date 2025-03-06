@@ -11,8 +11,7 @@ This tool is for ethical hacking education only.
 
 ## Dependencies & Installation  
 This script requires Python 3 and the following libraries: cryptography (for encryption), colorama (for colorful output), tqdm (for progress bars).  
-To install them, run: pip install cryptography colorama tqdm  
-
+To install them, run: ``` pip install cryptography colorama tqdm ```
 ## Important Setup Step (Before Running the Script)  
 1. Open `ransomware_simulator.py` in a text editor and **change the secret passphrase** to something unique.  
 2. Find this line in the script:  
